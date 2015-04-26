@@ -4,5 +4,5 @@ This directory contains R code and documentation related to course project for G
 
 ## Files
 `run_analysis.R` contains the code to execute the 5 steps given. Data was uncompressed and put into the same folder as the script.<br>
-`CodeBook.md` describes the variables, the data, and any transformations or work that was performed to clean up the data.
+`CodeBook.md` describes the variables, the data, and any transformations or work that was performed to clean up the data.<br>
 `tidy.txt` contains the output for the 5th step.
